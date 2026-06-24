@@ -5,7 +5,16 @@ Made by Souptik!
 I built this little project because I wanted a heart-shaped PCB that I could gift to someone. It's a simple LED chaser built around a 555 timer and a CD4017 decade counter. The LEDs light up one after another, creating a blinking animation around the heart.
 
 Built using parts I already had on hand, and manufactured through JLC thanks stasis.
+BUILD PHOTO
+![image](https://stasis.hackclub-assets.com/images/1782295844268-m1t962.png)
 
+and here is the bottom
+
+![image](https://stasis.hackclub-assets.com/images/1782295856992-xktjgw.png)
+
+worknig video 
+
+https://youtube.com/shorts/QsSJmAaTk8Q?feature=share
 ## Photos
 
 <img width="916" height="776" alt="Blinky Board PCB" src="https://github.com/user-attachments/assets/4fc4a516-117c-45df-8549-69bfe71bc61a" />
